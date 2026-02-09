@@ -225,29 +225,7 @@ const handleCreatePatient = async () => {
 
 Структура проекта
 
-lab2/
-├── src/
-│   ├── api/
-│   │   ├── patients.js
-│   │   ├── doctors.js
-│   │   ├── appointments.js
-│   │   └── index.js
-│   ├── hooks/
-│   │   ├── usePatients.js
-│   │   ├── useDoctors.js
-│   │   ├── useAppointments.js
-│   │   ├── useProfile.js
-│   │   └── index.js
-│   ├── lib/
-│   │   └── queryClient.js
-│   ├── components/
-│   │   └── ErrorBoundary.jsx
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-```
-
-## Запуск проекта
+Запуск проекта
 
 Установка зависимостей:
 ```bash
